@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Yona Sherpa](https://github.com/yonasherpa04)
+- Place: Bengaluru,India
+- Bio: Computer Science Student
+- Github: [Ítalo Epifânio](https://github.com/yonasherpa04)
+
